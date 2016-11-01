@@ -1,4 +1,4 @@
-# popl2016-papers
+# popl2017-papers
 
 Links to [accepted papers][popl2017-accepted] for the [44th ACM
 SIGPLAN-SIGACT Symposium on Principles of Programming
