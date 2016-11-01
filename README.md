@@ -116,7 +116,7 @@ Danel Ahman, Cătălin Hriţcu, Guido Martínez, Gordon Plotkin, Jonathan Protze
 
 Do be do be do  
 Sam Lindley, Conor McBride, Craig McLaughlin  
-([old draft from 2014](http://homepages.inf.ed.ac.uk/slindley/papers/frankly-draft-march2014.pdf))
+([draft](http://homepages.inf.ed.ac.uk/slindley/papers/frankly-draft-july2016.pdf))
 
 Dynamic Race Detection For C++11  
 Christopher Lidbury, Alastair Donaldson  
