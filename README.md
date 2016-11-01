@@ -26,6 +26,10 @@ Note: if you are editing this repository, please remember to use the
 Markdown syntax for hard line breaks, namely two spaces at the end of
 the line.
 
+Note: the "final version" deadline for POPL'17 is November 7, so it is
+fair to assume that more authors will have preprints available after
+that.
+
 ## POPL 2017
 
 A Posteriori Environment Analysis with Pushdown Delta CFA  
@@ -33,39 +37,47 @@ Kimball Germane, Matthew Might
 
 A Program Optimization for Automatic Database Result Caching  
 Ziv Scully, Adam Chlipala  
+([website](http://adam.chlipala.net/papers/SqlcachePOPL17/) (no preprint yet))
 
 A Promising Semantics for Relaxed-Memory Concurrency  
 Jeehoon Kang, Chung-Kil Hur, Ori Lahav, Viktor Vafeiadis, Derek Dreyer  
+([draft](http://sf.snu.ac.kr/promising/release/promising.pdf), [website](http://sf.snu.ac.kr/promise-concurrency/), [coq proofs](https://github.com/snu-sf/promising-coq))
 
 A Relational Model of Types-and-Effects in Higher-Order Concurrent Separation Logic  
 Morten Krogh-Jespersen, Kasper Svendsen, Lars Birkedal  
+([preprint](http://cs.au.dk/~birke/papers/iris-effects-conf.pdf))
 
 A Semantic Account of Metric Preservation  
 Arthur Azevedo de Amorim, Ikram Cherigui, Marco Gaboardi, Justin Hsu, Shin-ya Katsumata  
 
 A Short Counterexample Property for Safety and Liveness Verification of Fault-tolerant Distributed Algorithms  
 Igor Konnov, Marijana Lazic, Helmut Veith, Josef Widder  
+([preprint](https://arxiv.org/pdf/1608.05327) from [arXiv](https://arxiv.org/abs/1608.05327))
 
 Analyzing divergence in bisimulation semantics  
 Xinxin Liu, Tingting Yu, Wenhui Zhang  
 
 AutoPriv: Automating Differential Privacy Proofs  
 Danfeng Zhang, Daniel Kifer  
+([preprint](https://arxiv.org/pdf/1607.08228) from [arXiv](https://arxiv.org/abs/1607.08228))
 
 Automatically Comparing Memory Consistency Models  
 John Wickerson, Mark Batty, Tyler Sorensen, George A. Constantinides  
+([preprint](https://johnwickerson.github.io/papers/memalloy.pdf))
 
 Automatically Generating the Dynamic Semantics of Gradually Typed Languages  
 Matteo Cimini, Jeremy Siek  
 
 Beginner's Luck: A Language for Property-Based Generators  
 Leonidas Lampropoulos, Diane Gallois-Wong, Cătălin Hriţcu, John Hughes, Benjamin C. Pierce, Li-yao Xia  
+([preprint](https://arxiv.org/pdf/1607.05443) from [arXiv](https://arxiv.org/abs/1607.05443))
 
 Big Types in Little Runtime  
 Michael Vitousek, Cameron Swords, Jeremy Siek  
 
 Cantor Meets Scott: Semantic Foundations for Probabilistic Networks  
 Steffen Smolka, Praveen Kumar, Nate Foster, Dexter Kozen, Alexandra Silva  
+([preprint](https://arxiv.org/pdf/1607.05830) from [arXiv](https://arxiv.org/abs/1607.05830))
 
 Coming to Terms with Quantified Reasoning  
 Simon Robillard, Andrei Voronkov, Laura Kovacs  
@@ -75,9 +87,11 @@ Akhilesh Srikanth, Burak Sahin, William Harris
 
 Component-Based Synthesis for Complex APIs  
 Yu Feng, Ruben Martins, Yuepeng Wang, Isil Dillig, Thomas Reps  
+([preprint](https://www.cs.utexas.edu/~yufeng/papers/sypet.pdf))
 
 Computational Higher-Dimensional Type Theory  
 Carlo Angiuli, Robert Harper, Todd Wilson  
+([preprint](https://www.cs.cmu.edu/~rwh/papers/chitt/draft.pdf))
 
 Context-sensitive data dependence analysis via Linear Conjunctive Language Reachability  
 Qirun Zhang, Zhendong Su  
@@ -90,30 +104,37 @@ Ravichandhran Madhavan, Sumith Kulal, Viktor Kuncak
 
 Coupling proofs are probabilistic product programs  
 Gilles Barthe, Benjamin Gregoire, Justin Hsu, Pierre-Yves Strub  
+([preprint](https://arxiv.org/pdf/1607.03455) from [arXiv](https://arxiv.org/abs/1607.03455))
 
 Deciding equivalence with sums and the empty type  
 Gabriel Scherer  
+([preprint](https://arxiv.org/pdf/1610.01213) from [arXiv](https://arxiv.org/abs/1610.01213))
 
 Dijkstra Monads for Free  
 Danel Ahman, Cătălin Hriţcu, Guido Martínez, Gordon Plotkin, Jonathan Protzenko, Aseem Rastogi, Nikhil Swamy  
+([preprint](https://arxiv.org/pdf/1608.06499) from [arXiv](https://arxiv.org/abs/1608.06499))
 
 Do be do be do  
 Sam Lindley, Conor McBride, Craig McLaughlin  
+([old draft from 2014](http://homepages.inf.ed.ac.uk/slindley/papers/frankly-draft-march2014.pdf))
 
 Dynamic Race Detection For C++11  
 Christopher Lidbury, Alastair Donaldson  
 
 Exact Bayesian Inference by Symbolic Disintegration  
 Chung-chieh Shan, Norman Ramsey  
+([preprint](http://homes.soic.indiana.edu/ccshan/rational/disintegrator.pdf))
 
 Fast Polyhedra Abstract Domain  
 Gagandeep Singh, Markus Püschel, Martin Vechev  
 
 Fencing off Go: Liveness and Safety for Channel-based Programming  
 Julien Lange, Nicholas Ng, Bernardo Toninho, Nobuko Yoshida  
+([preprint](https://arxiv.org/pdf/1610.08843) from [arXiv](https://arxiv.org/abs/1610.08843))
 
 From F to DOT: Type Soundness Proofs with Definitional Interpreters  
 Nada Amin, Tiark Rompf  
+([preprint](https://arxiv.org/pdf/1510.05216) from [arXiv](https://arxiv.org/abs/1510.05216))
 
 Genesis: Synthesizing Forwarding Tables in Multi-tenant Networks  
 Kausik Subramanian, Loris D'Antoni, Aditya Akella  
@@ -123,12 +144,15 @@ Nicolás Lehmann, Éric Tanter
 
 Hazelnut: A Bidirectionally Typed Structure Editor Calculus  
 Cyrus Omar, Ian Voysey, Michael Hilton, Jonathan Aldrich, Matthew Hammer  
+([preprint](https://arxiv.org/pdf/1607.04180) from [arXiv](https://arxiv.org/abs/1607.04180))
 
 Hypercollecting Semantics and its Application to Static Analysis of Information Flow  
 Mounir Assaf, David Naumann, Julien Signoles, Éric Totel, Frédéric Tronel  
+([preprint](https://arxiv.org/pdf/1608.01654) from [arXiv](https://arxiv.org/abs/1608.01654))
 
 Interactive Proofs in Higher-Order Concurrent Separation Logic  
 Robbert Krebbers, Amin Timany, Lars Birkedal  
+([preprint](http://robbertkrebbers.nl/research/articles/proofmode.pdf))
 
 Intersection Type Calculi of Bounded Dimension  
 Andrej Dudenhefner, Jakob Rehof  
@@ -138,15 +162,19 @@ Mingsheng Ying, Shenggang Ying, Xiaodi Wu
 
 Java generics are Turing complete  
 Radu Grigore  
+([preprint](https://arxiv.org/pdf/1605.05274) from [arXiv](https://arxiv.org/abs/1605.05274))
 
 LMS-Verify: Abstraction Without Regret for Verified Systems Programming  
 Nada Amin, Tiark Rompf  
+([draft](http://cs.purdue.edu/~rompf/papers/amin-draft2016b.pdf))
 
-LOIS: syntax and semantics  
+LOIS (Looping Over Infinite Sets): syntax and semantics  
 Eryk Kopczynski, Szymon Toruńczyk  
+([preprint](http://www.mimuw.edu.pl/~erykk/lois/lois-sem.pdf))
 
 Learning nominal automata  
 Joshua Moerman, Matteo Sammartino, Alexandra Silva, Bartek Klin, Michał Szynwelski  
+([preprint](https://arxiv.org/pdf/1607.06268) from [arXiv](https://arxiv.org/abs/1607.06268))
 
 Mixed-size Concurrency: ARM, POWER, C/C++11, and SC  
 Shaked Flur, Susmit Sarkar, Christopher Pulte, Kyndylan Nienhuis, Luc Maranget, Kathryn E. Gray, Ali Sezgin, Mark Batty, Peter Sewell  
@@ -168,27 +196,33 @@ Naoki Kobayashi, Etienne Lozes, Florian Bruse
 
 Parallel Functional Arrays  
 Ananya Kumar, Guy E. Blelloch, Robert Harper  
+([draft](https://www.cs.cmu.edu/~rwh/papers/farray/draft.pdf))
 
 Polymorphism, subtyping and type inference in MLsub  
 Stephen Dolan, Alan Mycroft  
+([older draft](http://www.cl.cam.ac.uk/~sd601/papers/mlsub-preprint.pdf))
 
 QWIRE: A Core Language for Quantum Circuits  
 Jennifer Paykin, Robert Rand, Steve Zdancewic  
+([preprint](http://www.cis.upenn.edu/~rrand/qwire.pdf))
 
 Relational Cost Analysis  
 Ezgi Çiçek, Gilles Barthe, Marco Gaboardi, Deepak Garg, Jan Hoffmann  
 
 Rigorous Floating-point Mixed Precision Tuning  
 Wei-Fan Chiang, Ganesh Gopalakrishnan, Zvonimir Rakamaric, Ian Briggs, Mark S. Baranowski, Alexey Solovyev  
+([implementation](https://github.com/soarlab/FPTuner))
 
 Semantic-Directed Clumping of Disjunctive Abstract States  
 Huisong Li, François Bérenger, Bor-Yuh Evan Chang, Xavier Rival  
 
 Serializability for Eventual Consistency: Criterion, Analysis and Applications  
 Lucas Brutschy, Dimitar Dimitrov, Peter Müller, Martin Vechev  
+([draft](http://e-collection.library.ethz.ch/eserv/eth:48939/eth-48939-01.pdf))
 
 Stateful Manifest Contracts  
 Taro Sekiyama, Atsushi Igarashi  
+([draft](http://www.fos.kuis.kyoto-u.ac.jp/~t-sekiym/papers/refh/draft.pdf))
 
 Stochastic Invariants for Probabilistic Termination  
 Krishnendu Chatterjee, Petr Novotny, Djordje Zikelic  
@@ -201,21 +235,26 @@ Khurram A. Jafery, Joshua Dunfield
 
 The Geometry of Parallelism. Classical, Probabilistic, and Quantum Effects  
 Ugo Dal Lago, Claudia Faggian, Benoit Valiron, Akira Yoshimizu  
+([preprint](https://arxiv.org/pdf/1610.09629) from [arXiv](https://arxiv.org/abs/1610.09629))
 
 The exp-log normal form of types: Decomposing extensional equality and representing terms compactly  
 Danko Ilik  
+([preprint](https://arxiv.org/abs/1502.04634) from [arXiv](https://arxiv.org/abs/1502.04634))
 
 Thread Modularity at Many Levels: a Pearl in Compositional Verification  
 Jochen Hoenicke, Rupak Majumdar, Andreas Podelski  
 
 Towards Automatic Resource Bound Analysis for OCaml  
 Jan Hoffmann, Ankush Das, Shu-Chun Weng  
+([preprint](http://www.cs.cmu.edu/~janh/papers/HoffmannW15.pdf))
 
 Type Directed Compilation of Row-Typed Algebraic Effects  
 Daan Leijen  
+([technical report](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/algeff-tr-2016-1.pdf), [website](https://www.microsoft.com/en-us/research/publication/type-directed-compilation-of-row-typed-algebraic-effects/))
 
 Type Systems as Macros  
 Stephen Chang, Alex Knauth, Ben Greenman  
+([preprint](http://www.ccs.neu.edu/home/stchang/pubs/ckg-popl2017.pdf), [website](http://www.ccs.neu.edu/home/stchang/popl2017/index.html), [code repo](https://bitbucket.org/stchang/macrotypes)))
 
 Typed Self-Evaluation via Intensional Type Functions  
 Matt Brown, Jens Palsberg  
