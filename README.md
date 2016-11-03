@@ -246,7 +246,9 @@ Jochen Hoenicke, Rupak Majumdar, Andreas Podelski
 
 Towards Automatic Resource Bound Analysis for OCaml  
 Jan Hoffmann, Ankush Das, Shu-Chun Weng  
-([preprint](http://www.cs.cmu.edu/~janh/papers/HoffmannW15.pdf))
+([preprint](http://www.cs.cmu.edu/~janh/papers/HoffmannW15.pdf),
+ long version available on
+ [arXiv](https://arxiv.org/abs/1611.00692))
 
 Type Directed Compilation of Row-Typed Algebraic Effects  
 Daan Leijen  
