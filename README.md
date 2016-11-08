@@ -141,6 +141,7 @@ Kausik Subramanian, Loris D'Antoni, Aditya Akella
 
 Gradual Refinement Types  
 Nicolás Lehmann, Éric Tanter  
+([preprint](https://pleiad.cl/papers/2017/lehmannTanter-popl2017.pdf))
 
 Hazelnut: A Bidirectionally Typed Structure Editor Calculus  
 Cyrus Omar, Ian Voysey, Michael Hilton, Jonathan Aldrich, Matthew Hammer  
