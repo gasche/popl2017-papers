@@ -227,8 +227,9 @@ Taro Sekiyama, Atsushi Igarashi
 Stochastic Invariants for Probabilistic Termination  
 Krishnendu Chatterjee, Petr Novotny, Djordje Zikelic  
 
-Stream Fusion to Perfection  
+Stream Fusion, to Completeness  
 Oleg Kiselyov, Aggelos Biboudis, Nick Palladinos, Yannis Smaragdakis  
+([preprint](http://okmij.org/ftp/meta-programming/strymonas.pdf), [artifact website](https://strymonas.github.io/))
 
 Sums of Uncertainty: Refinements go gradual  
 Khurram A. Jafery, Joshua Dunfield  
