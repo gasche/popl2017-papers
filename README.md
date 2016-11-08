@@ -198,7 +198,7 @@ Naoki Kobayashi, Etienne Lozes, Florian Bruse
 
 Parallel Functional Arrays  
 Ananya Kumar, Guy E. Blelloch, Robert Harper  
-([draft](https://www.cs.cmu.edu/~rwh/papers/farray/popl17.pdf))
+([preprint](https://www.cs.cmu.edu/~rwh/papers/farray/popl17.pdf))
 
 Polymorphism, subtyping and type inference in MLsub  
 Stephen Dolan, Alan Mycroft  
