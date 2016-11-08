@@ -181,6 +181,7 @@ Shaked Flur, Susmit Sarkar, Christopher Pulte, Kyndylan Nienhuis, Luc Maranget, 
 
 Modules, Abstraction, and Parametric Polymorphism  
 Karl Crary  
+([preprint](https://www.cs.cmu.edu/~crary/papers/2017/mapp.pdf))
 
 Monadic second-order logic on finite sequences  
 Loris D'Antoni, Margus Veanes  
