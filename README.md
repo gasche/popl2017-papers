@@ -202,7 +202,7 @@ Ananya Kumar, Guy E. Blelloch, Robert Harper
 
 Polymorphism, subtyping and type inference in MLsub  
 Stephen Dolan, Alan Mycroft  
-([older draft](http://www.cl.cam.ac.uk/~sd601/papers/mlsub-preprint.pdf))
+([preprint](http://www.cl.cam.ac.uk/~sd601/papers/mlsub-preprint.pdf))
 
 QWIRE: A Core Language for Quantum Circuits  
 Jennifer Paykin, Robert Rand, Steve Zdancewic  
