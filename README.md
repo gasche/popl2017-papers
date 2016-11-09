@@ -235,6 +235,7 @@ Oleg Kiselyov, Aggelos Biboudis, Nick Palladinos, Yannis Smaragdakis
 
 Sums of Uncertainty: Refinements go gradual  
 Khurram A. Jafery, Joshua Dunfield  
+([preprint](https://arxiv.org/pdf/1611.02392) from [arXiv](https://arxiv.org/abs/1611.02392))
 
 The Geometry of Parallelism. Classical, Probabilistic, and Quantum Effects  
 Ugo Dal Lago, Claudia Faggian, Benoit Valiron, Akira Yoshimizu  
