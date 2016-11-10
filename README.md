@@ -141,6 +141,7 @@ Nada Amin, Tiark Rompf
 
 Genesis: Synthesizing Forwarding Tables in Multi-tenant Networks  
 Kausik Subramanian, Loris D'Antoni, Aditya Akella  
+([preprint](http://pages.cs.wisc.edu/~loris/papers/popl17genesis.pdf))
 
 Gradual Refinement Types  
 Nicolás Lehmann, Éric Tanter  
@@ -189,6 +190,7 @@ Karl Crary
 
 Monadic second-order logic on finite sequences  
 Loris D'Antoni, Margus Veanes  
+([preprint](http://pages.cs.wisc.edu/~loris/papers/popl17sws1s.pdf))
 
 Ogre and Pythia, An invariance proof method for weak consistency models  
 Jade Alglave, Patrick Cousot  
