@@ -82,6 +82,7 @@ Steffen Smolka, Praveen Kumar, Nate Foster, Dexter Kozen, Alexandra Silva
 
 Coming to Terms with Quantified Reasoning  
 Simon Robillard, Andrei Voronkov, Laura Kovacs  
+([preprint](https://arxiv.org/pdf/1611.02908) from [arXiv](https://arxiv.org/abs/1611.02908))
 
 Complexity Verification Using Guided Theorem Enumeration  
 Akhilesh Srikanth, Burak Sahin, William Harris  
