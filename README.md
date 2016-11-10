@@ -198,6 +198,7 @@ Jade Alglave, Patrick Cousot
 
 On Verifying Causal Consistency  
 Ahmed Bouajjani, Constantin Enea, Rachid Guerraoui, Jad Hamza  
+([preprint](https://arxiv.org/pdf/1611.00580) from [arXiv](https://arxiv.org/abs/1611.00580))
 
 On the Relationship Between Higher-Order Recursion Schemes and Higher-Order Fixpoint Logic  
 Naoki Kobayashi, Etienne Lozes, Florian Bruse  
