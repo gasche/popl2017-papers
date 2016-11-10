@@ -49,6 +49,7 @@ Morten Krogh-Jespersen, Kasper Svendsen, Lars Birkedal
 
 A Semantic Account of Metric Preservation  
 Arthur Azevedo de Amorim, Ikram Cherigui, Marco Gaboardi, Justin Hsu, Shin-ya Katsumata  
+([draft](https://justinh.su/files/docs/ACGHK16paper.pdf))
 
 A Short Counterexample Property for Safety and Liveness Verification of Fault-tolerant Distributed Algorithms  
 Igor Konnov, Marijana Lazic, Helmut Veith, Josef Widder  
