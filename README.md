@@ -102,6 +102,7 @@ Paul Blain Levy
 
 Contract-based Resource Verification for Higher-order Functions with Memoization  
 Ravichandhran Madhavan, Sumith Kulal, Viktor Kuncak  
+([draft](https://pdfs.semanticscholar.org/5b05/6f2f9bc4ba82fba40ca30a5d4fb0295d56aa.pdf))
 
 Coupling proofs are probabilistic product programs  
 Gilles Barthe, Benjamin Gregoire, Justin Hsu, Pierre-Yves Strub  
