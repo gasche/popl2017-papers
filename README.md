@@ -235,6 +235,7 @@ Taro Sekiyama, Atsushi Igarashi
 
 Stochastic Invariants for Probabilistic Termination  
 Krishnendu Chatterjee, Petr Novotny, Djordje Zikelic  
+([preprint](https://arxiv.org/pdf/1611.01063) from [arXiv](https://arxiv.org/abs/1611.01063))
 
 Stream Fusion, to Completeness  
 Oleg Kiselyov, Aggelos Biboudis, Nick Palladinos, Yannis Smaragdakis  
