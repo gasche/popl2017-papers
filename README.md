@@ -183,6 +183,7 @@ Joshua Moerman, Matteo Sammartino, Alexandra Silva, Bartek Klin, Michał Szynwel
 
 Mixed-size Concurrency: ARM, POWER, C/C++11, and SC  
 Shaked Flur, Susmit Sarkar, Christopher Pulte, Kyndylan Nienhuis, Luc Maranget, Kathryn E. Gray, Ali Sezgin, Mark Batty, Peter Sewell  
+([preprint](http://www.cl.cam.ac.uk/~pes20/popl17/mixed-size.pdf))
 
 Modules, Abstraction, and Parametric Polymorphism  
 Karl Crary  
