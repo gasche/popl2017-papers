@@ -252,7 +252,7 @@ Ugo Dal Lago, Claudia Faggian, Benoit Valiron, Akira Yoshimizu
 
 The exp-log normal form of types: Decomposing extensional equality and representing terms compactly  
 Danko Ilik  
-([preprint](https://arxiv.org/abs/1502.04634) from [arXiv](https://arxiv.org/abs/1502.04634))
+([preprint](https://arxiv.org/pdf/1502.04634) from [arXiv](https://arxiv.org/abs/1502.04634))
 
 Thread Modularity at Many Levels: a Pearl in Compositional Verification  
 Jochen Hoenicke, Rupak Majumdar, Andreas Podelski  
