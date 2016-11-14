@@ -120,7 +120,7 @@ Danel Ahman, Cătălin Hriţcu, Guido Martínez, Gordon Plotkin, Jonathan Protze
 
 Do be do be do  
 Sam Lindley, Conor McBride, Craig McLaughlin  
-([draft](http://homepages.inf.ed.ac.uk/slindley/papers/frankly-draft-july2016.pdf))
+([draft](http://homepages.inf.ed.ac.uk/slindley/papers/frankly-draft-july2016.pdf), [slides](https://msp-strath.github.io/spls-16/slides/McLaughlin.pdf))
 
 Dynamic Race Detection For C++11  
 Christopher Lidbury, Alastair Donaldson  
