@@ -218,6 +218,7 @@ Jennifer Paykin, Robert Rand, Steve Zdancewic
 
 Relational Cost Analysis  
 Ezgi Çiçek, Gilles Barthe, Marco Gaboardi, Deepak Garg, Jan Hoffmann  
+([preprint](https://www.cs.cmu.edu/~janh/papers/CicekBGGH17.pdf))
 
 Rigorous Floating-point Mixed Precision Tuning  
 Wei-Fan Chiang, Ganesh Gopalakrishnan, Zvonimir Rakamaric, Ian Briggs, Mark S. Baranowski, Alexey Solovyev  
