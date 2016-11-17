@@ -68,6 +68,7 @@ John Wickerson, Mark Batty, Tyler Sorensen, George A. Constantinides
 
 Automatically Generating the Dynamic Semantics of Gradually Typed Languages  
 Matteo Cimini, Jeremy Siek  
+([preprint](http://cimini.info/publications/gradualizerDynamicSemanticspreprint.pdf))
 
 Beginner's Luck: A Language for Property-Based Generators  
 Leonidas Lampropoulos, Diane Gallois-Wong, Cătălin Hriţcu, John Hughes, Benjamin C. Pierce, Li-yao Xia  
