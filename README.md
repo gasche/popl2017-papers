@@ -94,7 +94,7 @@ Yu Feng, Ruben Martins, Yuepeng Wang, Isil Dillig, Thomas Reps
 
 Computational Higher-Dimensional Type Theory  
 Carlo Angiuli, Robert Harper, Todd Wilson  
-([preprint](https://www.cs.cmu.edu/~rwh/papers/chitt/draft.pdf))
+([preprint](https://www.cs.cmu.edu/%7Erwh/papers/chitt/popl17.pdf))
 
 Context-sensitive data dependence analysis via Linear Conjunctive Language Reachability  
 Qirun Zhang, Zhendong Su  
