@@ -34,6 +34,7 @@ that.
 
 A Posteriori Environment Analysis with Pushdown Delta CFA  
 Kimball Germane, Matthew Might  
+([preprint](http://kimball.germane.net/germane2017pddeltacfa-preprint.pdf))
 
 A Program Optimization for Automatic Database Result Caching  
 Ziv Scully, Adam Chlipala  
