@@ -133,6 +133,7 @@ Chung-chieh Shan, Norman Ramsey
 
 Fast Polyhedra Abstract Domain  
 Gagandeep Singh, Markus Püschel, Martin Vechev  
+([preprint](http://www.srl.inf.ethz.ch/papers/POPL17-Polyhedra.pdf))
 
 Fencing off Go: Liveness and Safety for Channel-based Programming  
 Julien Lange, Nicholas Ng, Bernardo Toninho, Nobuko Yoshida  
