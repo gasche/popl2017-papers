@@ -278,6 +278,48 @@ Stephen Chang, Alex Knauth, Ben Greenman
 Typed Self-Evaluation via Intensional Type Functions  
 Matt Brown, Jens Palsberg  
 
+## PEPM 2017
+
+### Papers
+
+A Functional Reformulation of UnCAL Graph-Transformations: Or, Graph Transformation as Graph Reduction  
+Kazutaka Matsuda, Kazuyuki Asada  
+
+Lightweight Soundness for Towers of Language Extensions  
+Alejandro Serrano, Jurriaan Hage  
+
+Predicting Resource Consumption of Higher-Order Workflows  
+Markus Klinik, Jurriaan Hage, Jan Martin Jansen, Rinus Plasmeijer  
+
+Verification of Code Generators via Higher-Order Model Checking  
+Takashi Suwa, Takeshi Tsukada, Naoki Kobayashi, Atsushi Igarashi  
+
+Refining types using type guards in TypeScript  
+Ivo Gabe de Wolff, Jurriaan Hage  
+
+Cost versus Precision for Approximate Typing for Python  
+Levin Fritz, Jurriaan Hage  
+
+PEG Parsing in Less Space Using Progressive Tabling, Dynamic Analysis  
+Fritz Henglein, Ulrik Terp Rasmussen  
+
+Interactive data representation migration: Exploiting program dependence to aid program transformation  
+Krishna Narasimhan, Julia Lawall, Christoph Reichenbach  
+
+Functional Parallels of Sequential Imperatives (Short Paper)  
+Tiark Rompf, Kevin J. Brown  
+
+Detecting code clones with gaps by function applications  
+Tsubasa Matsushita, Isao Sasano  
+
+### Posters
+
+Language-integrated Query with Ordering, Grouping, Outer Joins  
+Tatsuya Katsushima, Oleg Kiselyov  
+
+Study of Bellman Equation from Program Schemata Perspective  
+Nikolay Shilov  
+
 ## Co-located events
 
 As of writing, the submission process for most POPL'17 co-located
