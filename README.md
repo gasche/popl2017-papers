@@ -278,6 +278,12 @@ Stephen Chang, Alex Knauth, Ben Greenman
 Typed Self-Evaluation via Intensional Type Functions  
 Matt Brown, Jens Palsberg  
 
+## Co-located events
+
+As of writing, the submission process for most POPL'17 co-located
+events is not finished. Feel free to send a pull-request with list of
+accepted papers for an event, and contribute links to the preprints.
+
 ## PEPM 2017
 
 ### Papers
@@ -319,9 +325,3 @@ Tatsuya Katsushima, Oleg Kiselyov
 
 Study of Bellman Equation from Program Schemata Perspective  
 Nikolay Shilov  
-
-## Co-located events
-
-As of writing, the submission process for most POPL'17 co-located
-events is not finished. Feel free to send a pull-request with list of
-accepted papers for an event, and contribute links to the preprints.
