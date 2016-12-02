@@ -117,7 +117,7 @@ Gabriel Scherer
 ([preprint](https://arxiv.org/pdf/1610.01213) from [arXiv](https://arxiv.org/abs/1610.01213))
 
 Dijkstra Monads for Free  
-Danel Ahman, Cătălin Hriţcu, Kenji Maillard, Guido Martínez, Gordon Plotkin, Jonathan Protzenko, Aseem Rastogi, Nikhil Swamy
+Danel Ahman, Cătălin Hriţcu, Kenji Maillard, Guido Martínez, Gordon Plotkin, Jonathan Protzenko, Aseem Rastogi, Nikhil Swamy  
 ([preprint](https://arxiv.org/pdf/1608.06499) from [arXiv](https://arxiv.org/abs/1608.06499), [other materials](https://www.fstar-lang.org/papers/dm4free/))
 
 Do be do be do  
