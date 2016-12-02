@@ -308,6 +308,7 @@ Levin Fritz, Jurriaan Hage
 
 PEG Parsing in Less Space Using Progressive Tabling, Dynamic Analysis  
 Fritz Henglein, Ulrik Terp Rasmussen  
+([preprint](https://utr.dk/pubs/files/henglein2017-0-paper.pdf))
 
 Interactive data representation migration: Exploiting program dependence to aid program transformation  
 Krishna Narasimhan, Julia Lawall, Christoph Reichenbach  
