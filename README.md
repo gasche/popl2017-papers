@@ -232,7 +232,7 @@ Huisong Li, François Bérenger, Bor-Yuh Evan Chang, Xavier Rival
 
 Serializability for Eventual Consistency: Criterion, Analysis and Applications  
 Lucas Brutschy, Dimitar Dimitrov, Peter Müller, Martin Vechev  
-([draft](http://e-collection.library.ethz.ch/eserv/eth:48939/eth-48939-01.pdf))
+([preprint](http://pm.inf.ethz.ch/publications/getpdf.php?bibname=Own&id=BrutschyDimitrovMuellerVechev17.pdf))
 
 Stateful Manifest Contracts  
 Taro Sekiyama, Atsushi Igarashi  
