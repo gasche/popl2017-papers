@@ -284,6 +284,39 @@ As of writing, the submission process for most POPL'17 co-located
 events is not finished. Feel free to send a pull-request with list of
 accepted papers for an event, and contribute links to the preprints.
 
+## CoqPL 2017
+
+CertSkel: a Verified Compiler for a Coq-embedded GPGPU DSL  
+Izumi Asakura, Hidehiko Masuhara, Tomoyuki Aotani  
+([preprint](http://prg.is.titech.ac.jp/wp-content/uploads/2016/11/CoqPL_2017_paper_15.pdf))  
+  
+CertiCoq: A verified compiler for Coq  
+Abhishek Anand, Andrew Appel, Greg Morrisett, Zoe Paraskevopoulou, Randy Pollack, Olivier Savary Belanger, Matthieu Sozeau, Matthew Weaver  
+  
+IxFree: Step-Indexed Logical Relations in Coq  
+Piotr Polesiuk  
+  
+Logical Relations in Iris  
+Amin Timany, Robbert Krebbers, Lars Birkedal  
+([preprint](https://lirias.kuleuven.be/bitstream/123456789/555709/1/CoqPL.pdf))  
+  
+Predicate Monads: A Framework for Proving Generic Properties of Monadic Programs via Rewriting  
+Edwin Westbrook, Gregory Malecha  
+  
+Session with the Coq Development Team  
+  
+Synthetic topology in HoTT for probabilistic programming  
+Florian Faissole, Bas Spitters  
+  
+Transferring Arithmetic Decision Procedures (on Z) to Alternative Representations  
+Nicolas Magaud  
+  
+Verification of Implementations of Distributed Systems Under Churn  
+Ryan Doenges, James R. Wilcox, Doug Woos, Zachary Tatlock, Karl Palmskog  
+  
+ppsimpl: a reflexive Coq tactic for canonising goals  
+Frédéric Besson  
+
 ## PEPM 2017
 
 ### Papers
