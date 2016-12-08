@@ -153,7 +153,7 @@ Nicolás Lehmann, Éric Tanter
 
 Hazelnut: A Bidirectionally Typed Structure Editor Calculus  
 Cyrus Omar, Ian Voysey, Michael Hilton, Jonathan Aldrich, Matthew Hammer  
-([preprint](https://arxiv.org/pdf/1607.04180) from [arXiv](https://arxiv.org/abs/1607.04180))
+([preprint](https://arxiv.org/pdf/1607.04180) from [arXiv](https://arxiv.org/abs/1607.04180), [website](https://hazelgrove.github.io/), [live implementation](https://hazelgrove.github.io/implementation/hz.html), [agda proofs](https://github.com/hazelgrove/agda-popl17))
 
 Hypercollecting Semantics and its Application to Static Analysis of Information Flow  
 Mounir Assaf, David Naumann, Julien Signoles, Éric Totel, Frédéric Tronel  
