@@ -275,7 +275,7 @@ Daan Leijen
 
 Type Systems as Macros  
 Stephen Chang, Alex Knauth, Ben Greenman  
-([preprint](http://www.ccs.neu.edu/home/stchang/pubs/ckg-popl2017.pdf), [website](http://www.ccs.neu.edu/home/stchang/popl2017/index.html), [code repo](https://bitbucket.org/stchang/macrotypes)))
+([preprint](http://www.ccs.neu.edu/home/stchang/pubs/ckg-popl2017.pdf), [website](http://www.ccs.neu.edu/home/stchang/popl2017/index.html), [code repo](https://bitbucket.org/stchang/macrotypes))
 
 Typed Self-Evaluation via Intensional Type Functions  
 Matt Brown, Jens Palsberg  
