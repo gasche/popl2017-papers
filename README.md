@@ -207,6 +207,7 @@ Ahmed Bouajjani, Constantin Enea, Rachid Guerraoui, Jad Hamza
 
 On the Relationship Between Higher-Order Recursion Schemes and Higher-Order Fixpoint Logic  
 Naoki Kobayashi, Etienne Lozes, Florian Bruse  
+([preprint](http://www-kb.is.s.u-tokyo.ac.jp/~koba/papers/popl2017-long.pdf))
 
 Parallel Functional Arrays  
 Ananya Kumar, Guy E. Blelloch, Robert Harper  
