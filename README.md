@@ -168,6 +168,7 @@ Andrej Dudenhefner, Jakob Rehof
 
 Invariants of Quantum Programs: Characterisations and Generation  
 Mingsheng Ying, Shenggang Ying, Xiaodi Wu  
+([preprint](http://ix.cs.uoregon.edu/~xiaodiwu/papers/popl17.pdf))
 
 Java generics are Turing complete  
 Radu Grigore  
