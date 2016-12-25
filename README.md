@@ -38,7 +38,7 @@ Kimball Germane, Matthew Might
 
 A Program Optimization for Automatic Database Result Caching  
 Ziv Scully, Adam Chlipala  
-([website](http://adam.chlipala.net/papers/SqlcachePOPL17/) (no preprint yet))
+([preprint](http://adam.chlipala.net/papers/SqlcachePOPL17/SqlcachePOPL17.pdf), [website](http://adam.chlipala.net/papers/SqlcachePOPL17/))
 
 A Promising Semantics for Relaxed-Memory Concurrency  
 Jeehoon Kang, Chung-Kil Hur, Ori Lahav, Viktor Vafeiadis, Derek Dreyer  
