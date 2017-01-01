@@ -279,7 +279,7 @@ Stephen Chang, Alex Knauth, Ben Greenman
 
 Typed Self-Evaluation via Intensional Type Functions  
 Matt Brown, Jens Palsberg  
-(no preprint found, [artifact website](http://compiler.cs.ucla.edu/popl17/))
+(article available [on the ACM DL](http://dl.acm.org/citation.cfm?id=3009853), [artifact website](http://compiler.cs.ucla.edu/popl17/))
 
 ## Co-located events
 
