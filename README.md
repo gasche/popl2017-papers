@@ -279,6 +279,7 @@ Stephen Chang, Alex Knauth, Ben Greenman
 
 Typed Self-Evaluation via Intensional Type Functions  
 Matt Brown, Jens Palsberg  
+([website](http://compiler.cs.ucla.edu/popl17/))
 
 ## Co-located events
 
