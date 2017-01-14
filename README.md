@@ -165,6 +165,7 @@ Robbert Krebbers, Amin Timany, Lars Birkedal
 
 Intersection Type Calculi of Bounded Dimension  
 Andrej Dudenhefner, Jakob Rehof  
+(article available [on the ACM DL](http://dl.acm.org/citation.cfm?id=3009862))
 
 Invariants of Quantum Programs: Characterisations and Generation  
 Mingsheng Ying, Shenggang Ying, Xiaodi Wu  
