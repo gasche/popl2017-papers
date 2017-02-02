@@ -137,7 +137,7 @@ Gagandeep Singh, Markus Püschel, Martin Vechev
 
 Fencing off Go: Liveness and Safety for Channel-based Programming  
 Julien Lange, Nicholas Ng, Bernardo Toninho, Nobuko Yoshida  
-([preprint](https://arxiv.org/pdf/1610.08843) from [arXiv](https://arxiv.org/abs/1610.08843))
+([preprint](https://arxiv.org/pdf/1610.08843) from [arXiv](https://arxiv.org/abs/1610.08843), [artifact website](http://mrg.doc.ic.ac.uk/tools/gong/))
 
 From F to DOT: Type Soundness Proofs with Definitional Interpreters  
 Nada Amin, Tiark Rompf  
