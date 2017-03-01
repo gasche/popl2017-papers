@@ -77,6 +77,7 @@ Leonidas Lampropoulos, Diane Gallois-Wong, Cătălin Hriţcu, John Hughes, Benja
 
 Big Types in Little Runtime  
 Michael Vitousek, Cameron Swords, Jeremy Siek  
+([preprint](http://homes.soic.indiana.edu/mvitouse/papers/popl17.pdf), [supplement](http://homes.soic.indiana.edu/mvitouse/popl17sup.pdf), [artifact](http://homes.soic.indiana.edu/mvitouse/popl17artifact.html))
 
 Cantor Meets Scott: Semantic Foundations for Probabilistic Networks  
 Steffen Smolka, Praveen Kumar, Nate Foster, Dexter Kozen, Alexandra Silva  
