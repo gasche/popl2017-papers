@@ -142,7 +142,7 @@ Julien Lange, Nicholas Ng, Bernardo Toninho, Nobuko Yoshida
 
 From F to DOT: Type Soundness Proofs with Definitional Interpreters  
 Nada Amin, Tiark Rompf  
-([preprint](https://arxiv.org/pdf/1510.05216) from [arXiv](https://arxiv.org/abs/1510.05216))
+([preprint](https://www.cs.purdue.edu/~rompf/papers/amin-popl17a.pdf))
 
 Genesis: Synthesizing Forwarding Tables in Multi-tenant Networks  
 Kausik Subramanian, Loris D'Antoni, Aditya Akella  
@@ -178,7 +178,7 @@ Radu Grigore
 
 LMS-Verify: Abstraction Without Regret for Verified Systems Programming  
 Nada Amin, Tiark Rompf  
-([draft](http://cs.purdue.edu/~rompf/papers/amin-draft2016b.pdf))
+([preprint](http://cs.purdue.edu/~rompf/papers/amin-popl17b.pdf))
 
 LOIS (Looping Over Infinite Sets): syntax and semantics  
 Eryk Kopczynski, Szymon Toruńczyk  
@@ -353,6 +353,7 @@ Krishna Narasimhan, Julia Lawall, Christoph Reichenbach
 
 Functional Parallels of Sequential Imperatives (Short Paper)  
 Tiark Rompf, Kevin J. Brown  
+([preprint](https://www.cs.purdue.edu/homes/rompf/papers/rompf-pepm17.pdf))
 
 Detecting code clones with gaps by function applications  
 Tsubasa Matsushita, Isao Sasano  
