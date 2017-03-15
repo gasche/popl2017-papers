@@ -292,6 +292,8 @@ accepted papers for an event, and contribute links to the preprints.
 
 ## CoqPL 2017
 
+All abstracts are available for download at the [Official CoqPL Program Page](http://conf.researchr.org/track/CoqPL-2017/main). Videos of the talks will be also made available there as soon as the ACM is done editing.
+
 CertSkel: a Verified Compiler for a Coq-embedded GPGPU DSL  
 Izumi Asakura, Hidehiko Masuhara, Tomoyuki Aotani  
 ([preprint](http://prg.is.titech.ac.jp/wp-content/uploads/2016/11/CoqPL_2017_paper_15.pdf))  
