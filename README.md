@@ -233,6 +233,7 @@ Wei-Fan Chiang, Ganesh Gopalakrishnan, Zvonimir Rakamaric, Ian Briggs, Mark S. B
 
 Semantic-Directed Clumping of Disjunctive Abstract States  
 Huisong Li, François Bérenger, Bor-Yuh Evan Chang, Xavier Rival  
+([preprint](https://www.di.ens.fr/~rival/papers/popl17.pdf), [accepted artifact (a virtualbox VM)](https://www.di.ens.fr/~rival/papers/vm-popl17.ova), [artifact website](https://github.com/Antique-team/memcad))
 
 Serializability for Eventual Consistency: Criterion, Analysis and Applications  
 Lucas Brutschy, Dimitar Dimitrov, Peter Müller, Martin Vechev  
